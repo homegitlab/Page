@@ -41,3 +41,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Conversion
+highlighter: rouge
+lsi: false
+# excerpt_separator: "\n\n"
+incremental: false
